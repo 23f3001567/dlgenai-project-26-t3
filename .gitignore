@@ -1,0 +1,9 @@
+# data, weights and outputs are never committed
+*.pth
+*.pt
+*.csv
+data/
+wandb/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
